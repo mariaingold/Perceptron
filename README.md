@@ -10,7 +10,7 @@ Machine Learning course assignment
 * Perceptron tutorial
 
 ## Unit 7 Assignment 
-*  Watch this week’s lecturecast and run the following python activities in order.
+*  Watch this week’s lecturecast and run the following Python activities in order.
 
 ### Code
 
