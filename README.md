@@ -15,5 +15,5 @@ Machine Learning course assignment
 ### Code
 
 1. 7_simple_perceptron.ipynb
-2. 7_perceptron_AND_operator.ipynb
-3. 7_multi-layer Perceptron.ipynb (the Sigmoid Function)
+2. 7_perceptron_and_operator.ipynb
+3. 7_multi-layer_perceptron.ipynb (the Sigmoid Function)
